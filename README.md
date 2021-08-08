@@ -1,7 +1,7 @@
-### Hello guys, this is Tobias Rosa!
+### Hello guys 👋, this is Tobias Rosa!
 
+- 💻 Tenho 20 anos, trabalho como assistente PCP na Gerdau, e gosto de aprender novas tecnologias junto com meus amigos.
 - 👯 Procurando uma posição junior como desenvolvedor web.
-- 📫 Me manda um email: tobias.rosa2000@gmail.com
 
 ## Estou estudando
 
