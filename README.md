@@ -27,19 +27,15 @@
 </div>
 
 ##
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div>
-  <a href="https://github.com/tobiasorosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tobiasorosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasorosa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tobiasorosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasorosa&layout=compact&langs_count=7&theme=onedark"/>
+<div style="overflow: hidden">
+    <table>
+    	<tr>
+    		<td>
+    			<img align="left" src="https://github-readme-stats.vercel.app/api?username=tobiasorosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    		</td>
+    		<td>
+    			<img align="left" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasorosa&layout=compact&langs_count=7&theme=onedark"/>
+    		</td>
+    	</tr>
+    </table>
 </div>
