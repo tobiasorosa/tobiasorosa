@@ -27,14 +27,6 @@
 <br>
 
 <div>
-    <table>
-    	<tr>
-    		<td>
-    			<img align="left" src="https://github-readme-stats.vercel.app/api?username=tobiasorosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    		</td>
-    		<td>
-    			<img align="left" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasorosa&layout=compact&langs_count=7&theme=onedark"/>
-    		</td>
-    	</tr>
-    </table>
+<img align="left" width=47% height=200px src="https://github-readme-stats.vercel.app/api?username=tobiasorosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img align="left" width=47% height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasorosa&layout=compact&langs_count=7&theme=onedark"/>
 </div>
