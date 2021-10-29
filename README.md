@@ -1,5 +1,5 @@
 <h1 align="center">Hello guys 👋, this is Tobias Rosa!</h1>
-<h5 align="left">- 💻 Tenho 20 anos, trabalho como assistente PCP na Gerdau, e gosto de aprender novas tecnologias junto com meus amigos.</h5>
+<h5 align="left">- 💻 Tenho 21 anos, trabalho como web Developer na <a href="https://idinheiro.com.br" target="_blank">iDinheiro</a>, e gosto de aprender novas tecnologias junto com meus amigos.</h5>
 <h5 align="left">- 👯 Procurando uma posição junior como desenvolvedor web.</h5>
 
 ## Estou estudando
