@@ -10,7 +10,7 @@
   <img align="center" alt="Tobi-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-## Minhas redes
+## My network
 
 <div style="display: inline_block" align="center"><br>
   <a href="https://steamcommunity.com/id/tobybryant1/" target="_blank"><img align="center" alt="Tobi-Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
