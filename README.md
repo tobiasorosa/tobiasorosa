@@ -1,7 +1,7 @@
 <h1 align="center">Hello guys 👋, this is Tobias Rosa!</h1>
-<h5 align="left">- 💻 Tenho 21 anos, trabalho como web Developer na <a href="https://idinheiro.com.br" target="_blank">iDinheiro</a>, e gosto de aprender novas tecnologias junto com meus amigos.</h5>
+<h5 align="left">- 💻 I'm 21yo, work as software developer at <a href="https://idinheiro.com.br" target="_blank">iDinheiro</a>, and I like to learn new technologies with my friends.</h5>
 
-## Estou estudando
+## Currently working with
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Tobi-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
