@@ -1,10 +1,12 @@
 <h1 align="center">Hello guys 👋, this is Tobias Rosa!</h1>
-<h5 align="left">- 💻 I'm 21yo, work as software developer at <a href="https://idinheiro.com.br" target="_blank">iDinheiro</a>, and I like to learn new technologies with my friends.</h5>
+<h5 align="left">- 💻 I'm 22yo, work as software developer at <a href="http://threeoitcompany.com.br/" target="_blank">Threeo IT</a>, and I like to learn new technologies while listening to some Raggeaton.</h5>
 
 ## Currently working with
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Tobi-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Tobi-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Tobi-DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="Tobi-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Tobi-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="Tobi-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
