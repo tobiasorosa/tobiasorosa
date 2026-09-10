@@ -15,15 +15,10 @@
 ## My network
 
 <div style="display: inline_block" align="center"><br>
-  <a href="https://steamcommunity.com/id/tobybryant1/" target="_blank"><img align="center" alt="Tobi-Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://www.instagram.com/tubia_rosa/" target="_blank"><img align="center" alt="Tobi-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/tobias_rosa23/" target="_blank"><img align="center" alt="Tobi-Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/tobias.o.rosa/" target="_blank"><img align="center" alt="Tobi-Face" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tobias-oliveira-rosa/" target="_blank"><img align="center" alt="Tobi-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/13621903/tobias-rosa" target="_blank"><img align="center" alt="Tobi-Stack" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   <a href="mailto:tobias.rosa2000@gmail.com" target="_blank"><img align="center" alt="Tobi-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
-
-<div>
-<img align="center" width=100% height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasorosa&layout=compact&langs_count=7&theme=onedark"/>
-</div>
