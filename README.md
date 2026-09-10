@@ -1,5 +1,5 @@
 <h1 align="center">Hello guys 👋, this is Tobias Rosa!</h1>
-<h5 align="left">- 💻 I'm 25yo, work as software developer at <a href="http://praxent.com/" target="_blank">Praxent</a>, and like to learn new technologies.</h5>
+<h5 align="left">- 💻 I'm 25yo, a Senior Software Engineer at <a href="http://praxent.com/" target="_blank">Praxent</a>.</h5>
 
 ## Currently working with
 
